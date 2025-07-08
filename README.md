@@ -1,6 +1,6 @@
 # 🔧 Create UI5 View - VS Code Extension
 
-Bu Visual Studio Code uzantısı, SAP Fiori uygulamaları geliştirenler için **otomatik View ve Controller oluşturma** sürecini kolaylaştırır. Tek bir komutla UI5 mimarisine uygun dosyalar oluşturur ve `manifest.json` içinde gerekli routing tanımlarını yapar.
+Bu Visual Studio Code uzantısı, SAP Fiori uygulamaları geliştirenler için otomatik **View ve Controller oluşturma** sürecini kolaylaştırır. Tek bir komutla UI5 mimarisine uygun dosyalar oluşturur ve `manifest.json` içinde gerekli routing tanımlarını yapar.
 
 ## 🚀 Özellikler
 
