@@ -1,5 +1,0 @@
-rm -rf out
-npm install
-npm run compile
-npx vsce package
-code --install-extension /Users/mustafaozkan/vscode-extensions/create-ui5-view/create-ui5-view/create-ui5-view-0.0.1.vsix
