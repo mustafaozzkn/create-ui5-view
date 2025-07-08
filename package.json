@@ -1,0 +1,33 @@
+{
+  "name": "create-ui5-view",
+  "displayName": "Create UI5 View",
+  "description": "Creates a UI5 XML View and JS Controller with default content",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "activationEvents": [
+    "onCommand:createUi5View"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "createUi5View",
+        "title": "Create UI5 View and Controller"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^18.17.0",
+    "mocha": "^11.7.1",
+    "typescript": "^5.3.0",
+    "vscode": "^1.1.37"
+  }
+}
