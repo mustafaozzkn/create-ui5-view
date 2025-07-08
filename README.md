@@ -17,3 +17,14 @@ npx vsce package
 
 # 5. Oluşan uzantıyı VS Code'a lokal olarak yükle
 code --install-extension ExtensionPathIleDegistir
+
+## 🖼️ Görseller
+
+Aşağıda extension’ın nasıl çalıştığını gösteren ekran görüntüleri yer almakta.
+
+### Komut Paleti Üzerinden Çalıştırma
+![Komut Paleti](image.png))
+
+### UI5 View İsim Belirleme
+
+![UI5 View Oluştur](image-1.png)
