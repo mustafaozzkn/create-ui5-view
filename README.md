@@ -34,7 +34,7 @@ npm run compile
 npx vsce package
 
 # 5. Oluşan uzantıyı VS Code'a lokal olarak yükle
-code --install-extension ExtensionPathIleDegistir
+code --install-extension <ExtensionPathIleDegistir>
 ```
 
 ## 🖼️ Görseller
