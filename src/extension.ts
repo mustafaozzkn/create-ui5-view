@@ -129,7 +129,7 @@ export function activate(context: vscode.ExtensionContext) {
         routing.routes.push({
           name: viewName,
           pattern: viewName.toLowerCase(),
-          target: viewName
+          target: [ viewName ]
         });
 
         routing.targets[viewName] = {
