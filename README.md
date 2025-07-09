@@ -7,7 +7,7 @@ Bu Visual Studio Code uzantısı, SAP Fiori uygulamaları geliştirenler için o
 - Komut paleti üzerinden çağrılır (`Create UI5 View` komutu).
 - Kullanıcıdan bir **View ismi** alır.
 - `webapp/view/` klasörüne otomatik olarak `<ViewName>.view.xml` dosyasını oluşturur.
-- `webapp/controller/` klasörüne eşleşen `<ViewName>.controller.js` dosyasını üretir.
+- `webapp/controller/` klasörüne eşleşen `<ViewName>.controller.js` dosyasını oluşturur.
 - `manifest.json` dosyasına **routing** yapılandırmasını ekler.
 
 ## 🎯 Amaç
